@@ -1,0 +1,485 @@
+.body{
+  background-color:#000a16 ;
+}
+.wholepage{
+    background-color: #000a16;
+}
+
+ 
+  .container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      
+      
+    }
+    
+  
+    .ubunifu {
+     
+      height: 59px;
+  
+      float: left;
+      width: max-content;
+      color: #C42B1B;
+      font-family: 'Josefin Sans', sans-serif;
+      font-weight: 800;
+    
+    }
+    .ubunifu img{
+      display: flex;
+      margin-right: 400px;
+    }
+    
+    .nav{
+      font-size: 15px;
+      font-family: 'Josefin Sans', sans-serif;
+    font-weight: 200;
+      align-items: center;
+      
+    }
+    
+    
+    .navbar {
+      font-size: 9px;
+      width: 100%;
+      overflow: hidden;
+      width: 100%;
+      margin: auto;
+      display: flex;
+      /* padding-top: 20px; */
+      height: 10%;
+    }
+    /* Style the links inside the navigation bar */
+    .navbar a {
+      float: left;
+      font-weight: bold;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 15px;
+      
+      
+    }
+    
+  
+    .navigationlft{
+      display: flex;
+      
+      
+      padding-top: 2%;
+    
+      text-align: center;
+     
+    
+    
+    }
+    nav a li:hover{
+      background-color:#088;
+    }
+    .button{
+        background-color: #ff214f;
+    }
+
+    .bifull{
+        display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 100%;
+      height: 140vh; 
+      margin-top: 3px;
+       
+        
+       }
+      
+       .akili{
+        
+        height: 100%;
+        width: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      
+        margin-right: 10%;
+       }
+       .bucket{
+        width: 100%;
+        
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        color: white;
+        
+        margin-left: 200px;
+        margin-top: 180px;
+       
+       }
+
+       .soko{
+display: flex;
+       }
+
+       .shop
+       {
+        position: relative;
+        top: 0;
+        left: 0;
+display: flex;
+margin-top: 20px;
+
+       }
+       
+       .admissions{
+        
+        width: 100%;
+        height: 100%;
+        
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        color: white;
+        margin-left: 220px;
+        margin-top: 0px;
+        margin-bottom: 50px;
+        
+        
+        
+       }
+
+       .redot{
+        display: flex;
+        margin-top: 40px;
+        position: relative;
+       }
+
+       .hand{
+        display: flex;
+      position: absolute;
+      margin-left: 530px;
+      margin-top: 430px;
+       }
+
+       .info{
+        color: #000a16;
+        position:absolute;
+        display: flex;
+        margin-top: 15px;
+        font-size: 20px;
+       
+        padding-right: 250px;
+       }
+     
+      .karibu{
+        background-color: #111822;
+        height: 100%;
+      }
+      .welcome{
+        display: flex;
+        align-content: center;
+        color: whitesmoke;
+        
+      }
+
+      .entire{
+        
+        
+        width: 100%;
+    height: 85vh; 
+   
+    
+      margin-top: 50px;
+      }
+       
+      .nzima{
+        height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+
+  margin-right: 10%;
+      }
+      .nzima div{margin-left: 50px;}
+
+      .deliveries{
+        width: 30%;
+        height: 80%;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        color: #bababa;
+     
+        margin-bottom: 50px;
+        background-color: #000a16;
+      }
+
+      .safety{
+        width: 30%;
+        height: 80%;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        color: #bababa;
+        /* margin-left: 200px; */
+        margin-bottom: 50px;
+        background-color: #000a16;
+      }
+
+      .tracking{
+        width: 30%;
+        height: 80%;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        color: #bababa;
+        
+        margin-bottom: 50px;
+        background-color: #000a16;
+      }
+
+      .inventory{
+        width: 30%;
+        height: 80%;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        color: #bababa;
+       
+        margin-bottom: 50px;
+        background-color: #000a16;
+      }
+
+      .aboutus{
+        width: 100%;
+  
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  color: white;
+  margin-left: 150px;
+      }
+
+      .transfull{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+        width: 100%;
+    height: 85vh; 
+    background-color: #111822;
+     
+      padding-top: 30px;
+     
+      }
+.motwe{
+  height: 100%;
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin-right: 10%;
+}
+.relot{
+  position: relative;
+  top: 0;
+  left: 0;
+display: flex;
+margin-top: 20px;
+ }
+
+ 
+.maneno{
+ 
+ }
+
+.yote{
+  width: 100%;
+  height: 85vh; 
+ 
+  
+    
+    background-color: #000a16;
+}
+
+.full{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+
+  margin-right: 10%;
+}
+.full div{margin-left: 50px;}
+.business{
+  width: 30%;
+        height: 30%;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        color: #bababa;
+     
+        margin-bottom: 50px;
+        background-color: black;
+}
+
+.client
+{
+  width: 30%;
+        height: 30%;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        color: #bababa;
+     
+        margin-bottom: 50px;
+        background-color: black;
+}
+
+.countries{
+  width: 30%;
+        height: 30%;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        color: #bababa;
+     
+        margin-bottom: 50px;
+        background-color: black;
+}
+
+.cities{
+  width: 30%;
+        height: 30%;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        color: #bababa;
+     
+        margin-bottom: 50px;
+        background-color: black;
+}
+
+.adhiambo{
+  background-color: #000a16;
+  display: flex;
+ padding-left: 280px;
+ padding-bottom: 90px;
+  
+}
+
+.vitu{
+  position: relative;
+  top: 0;
+  left: 0;
+display: flex;
+margin-top: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      .tired{
+        margin-top: 0px;
+        background-color: #1c1c1c;
+        color: white;
+        
+      }
+
+      .stuff{
+        margin-left: 20px;
+      }
+      td{
+        margin-left: 80px; 
+      }
+      .email{
+        font-weight: 570;
+       
+        display: flex;
+        flex-direction: column;
+      justify-content: center;
+      
+      }
+
+      .con{
+        display: flex;
+  width: max-content;
+  margin-left: 5px;
+
+      }
+      .media{
+        margin-left: 10px;
+       }
+
+       .copy{
+        background-color: #141414;
+        height: 50px;
+        width: 100%;
+        display: flex;
+       color: white;
+        align-items: right;
+        padding-right: 1600px;
+     }
+
+     
